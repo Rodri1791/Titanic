@@ -16,8 +16,8 @@ En este proyecto realicé las siguientes tareas:
   
 - Conclusiones finales luego del análisis
 
-El trabajo está presentado con Streamlit y lo pueden ver aquí
-### [Streamlit APP](https://rodri1791-inflacion-argentina-inflacion-d0qf7g.streamlit.app/)
+El trabajo está presentado con Streamlit y lo pueden ver aquí   <img src="https://media.giphy.com/media/h4fg3NpdmeHrWdhzv0/giphy.gif" width="40"/> 
+### [Streamlit APP](https://rodri1791-titanic-app-q4v067.streamlit.app/)
 ### [Codigo APP](https://github.com/Rodri1791/Titanic/blob/main/app.py)
 
 # Titanic <img src="https://www.comprarbanderas.es/images/banderas/400/14-reino-unido_400px.jpg" style="width: 5%; height: auto;" />
@@ -32,8 +32,8 @@ In this proyect I did the followings tasks:
   
 - Final conclusions
 
-The work is presented with streamlit and you can see it here
-### [Streamlit APP](https://rodri1791-inflacion-argentina-inflacion-d0qf7g.streamlit.app/)
+The work is presented with streamlit and you can see it here <img src="https://media.giphy.com/media/h4fg3NpdmeHrWdhzv0/giphy.gif" width="40"/> 
+### [Streamlit APP](https://rodri1791-titanic-app-q4v067.streamlit.app/)
 ### [Code APP](https://github.com/Rodri1791/Titanic/blob/main/app.py)
 
 <br>
